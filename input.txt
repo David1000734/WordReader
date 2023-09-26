@@ -1,0 +1,6 @@
+Software can be represented by printed words and symbols that are easier for humans to manage
+than binary sequences.
+Tools exist that automatically convert a higher-level description of what is to be done into the required lower-level code. Higher-level programming languages like C++ allow programmers to express solutions to programming problems in terms that are much closer to a natural language like English. Some examples of the more popular of the hundreds of higher-level programming languages that have been devised over the past 60 years include FORTRAN, COBOL, Lisp, Haskell, C, Perl, Python, Java, and C#.
+Most programmers today, especially those concerned with high-level applications,
+usually do not worry about the details of underlying hardware platform and its machine
+language. 
