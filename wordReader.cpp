@@ -1,12 +1,12 @@
 /*
-... name: David Lam, 5005072080, CS202 Section 1001, ast01.cpp
 ... description: This program will read a text and sort it through unigrams
-... and bigrams. Contains a menu that can be used to search
-... in the arrays
+... and bigrams. Utilize a menu which can be used for more control
 ... input: Input a text file less than 50,000 words long
-... output: Outputs multiple files. 1gms.txt 2gms.txt ast1log.txt ast1.txt
+... output: multiple files: 1gms.txt 2gms.txt ast1log.txt ast1.txt
 ... output of unigrams, output of bigrams, output of changes made into text,
-... and collection of all words.
+... and collection of all words from input file.
+...
+... Copyright 2023, David Lam, All rights reserved.
 */
 
 #include <iostream>
